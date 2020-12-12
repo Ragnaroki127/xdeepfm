@@ -1,0 +1,6 @@
+__pycache__/*
+logs/*
+*.csv
+*.png
+.DS_Store
+.vscode/*
